@@ -1,0 +1,8 @@
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\bin\Debug\ProgFirmware.exe
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\bin\Debug\ProgFirmware.pdb
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.csprojResolveAssemblyReference.cache
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.MainForm.resources
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.Properties.Resources.resources
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.csproj.GenerateResource.Cache
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.exe
+c:\users\nikit\documents\visual studio 2015\Projects\ProgFirmware\ProgFirmware\obj\Debug\ProgFirmware.pdb
